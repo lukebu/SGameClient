@@ -1,3 +1,9 @@
 export const environment = {
-  production: true
+  production: true,
+  applicationName: '',
+
+  /*Links navbar*/
+  codex: 'Kodeks',
+  createAccount: 'Rozpocznij przygodę'
+
 };
