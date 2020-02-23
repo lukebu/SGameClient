@@ -1,18 +1,24 @@
+.row {
+  background-color: #DC143C;
+}
+
+#login {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .loginForm{
-  position: relative;
   display: -ms-flexbox;
   display: flex;
   padding: 1rem;
   -ms-flex-direction: column;
   flex-direction: column;
-  width: 100%;
   pointer-events: auto;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid rgba(0,0,0,.2);
   border-radius: 1.1rem;
   outline: 0;
-  max-width: 500px;
 }
 
 .login-or {
@@ -23,6 +29,7 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
 .span-or {
   display: block;
   position: absolute;
@@ -33,10 +40,9 @@
   width: 50px;
   text-align: center;
 }
+
 .hr-or {
   height: 1px;
   margin-top: 0px !important;
   margin-bottom: 0px !important;
 }
-
-

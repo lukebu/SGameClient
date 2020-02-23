@@ -9,4 +9,18 @@ import { environment } from '../../environments/environment.prod';
 
 export class NavigationComponent {
   applicationName = environment.applicationName;
+
+  /*Main nav */
+  community = environment.community;
+  createAccount = environment.createAccount;
+  news = environment.news;
+  login = environment.login;
+  contact = environment.contact;
+  shop = environment.shop;
+
+  /*Community sub-nav */
+  wiki = environment.wiki;
+  discord = environment.discord;
+  forum = environment.forum;
+
 }
