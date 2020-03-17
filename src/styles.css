@@ -1,5 +1,10 @@
 body {
   font-family: "Comic Sans MS";
+  background-color: white;
+  background-image: url("assets/img/TheLongDark_Safehaven.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 10%;
 }
 
 h1,h2,h3{

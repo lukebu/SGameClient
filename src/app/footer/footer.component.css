@@ -1,5 +1,5 @@
 .footer {
-  background-color: #212529;
+  background: rgba(0,0,0,0.5) ;
   position: absolute;
   bottom: 0;
   height: 120px;
