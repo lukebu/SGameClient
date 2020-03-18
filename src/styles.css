@@ -18,3 +18,8 @@ h1,h2,h3{
 form .error {
   color: #ff0000;
 }
+
+a.active {
+  color: #141d8b;
+}
+
